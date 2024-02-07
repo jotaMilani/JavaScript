@@ -15,3 +15,13 @@ console.log("soma = ", soma);
 console.log("subtracao = ", subtracao);
 console.log("multiplicacao = ", multiplicacao);
 console.log("divisao = ", divisao);
+
+
+
+var v1 = 10;
+var v2 = 3;
+console.log("---------------------------------------");
+console.log("valores: v1=", v1, "| v2 =", v2);
+console.log("---------------------------------------")
+console.log("resto da divisão interna: v1 % v2 =", v1 % v2);
+console.log("esponenciação v1**v2 (v1 elevado a v2 ) =", v1 ** v2);
